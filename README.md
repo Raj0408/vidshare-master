@@ -2,7 +2,7 @@
 
 # 🚀 Vidshare - The Ultimate Memes & Short Videos App 
 
-MemeBaaz is your one-stop destination for sharing video clips and images 📸. All submissions go through an admin approval process to maintain the quality of content. 
+Vidshare is your one-stop destination for sharing video clips and images 📸. All submissions go through an admin approval process to maintain the quality of content. 
 
 ---
 
